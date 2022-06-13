@@ -35,7 +35,7 @@ Then, choose one of the methods below and follow the instructions.
 
 Just click the button below, set the envs and that's it.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainamarica/carbon-telegram-bot)
 
 # Contributing
 See [this](CONTRIBUTING.md)
